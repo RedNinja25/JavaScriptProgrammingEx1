@@ -1,0 +1,2 @@
+# JavaScriptProgrammingEx1
+Working with variables
